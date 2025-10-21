@@ -9,7 +9,7 @@
 
 **CloudAudit** is a **Python 3** tool designed to scan cloud resource configurations and evaluate them against predefined rules for encryption, TLS, and public access. It’s built for cloud engineers and compliance teams, offering a lightweight and extensible way to audit infrastructure settings.
 
-------
+-----------
 
 ## 🛠 Tech & Languages
 
